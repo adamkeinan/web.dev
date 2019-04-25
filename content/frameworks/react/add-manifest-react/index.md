@@ -10,15 +10,15 @@ web_published_on: N/A # TODO: update
 wf_blink_components: N/A
 ---
 
-# Adding a web app manifest with Create React App
+# Add a web app manifest with Create React App
 
 <div class="aside note">
-  If you don't know how web app manifest files work, refer to the <a href="/installable/add-manifest">Add a Web App Manifest/a> guide first.
+  If you don't know how web app manifest files work, refer to the <a href="/installable/add-manifest">Add a Web App Manifest</a> guide first.
 </div>
 
-Create React App (CRA) includes a web app manifest by default. Modifying this file will allow you to change how your application is displayed when installed on the user's device.
+<img width="300" class="attempt-right" src="./icon-home-screen.png" alt="Icon on the home screen">
 
-![Icon on the home screen](./icon-home-screen.png)
+Create React App (CRA) includes a web app manifest by default. Modifying this file will allow you to change how your application is displayed when installed on the user's device.
 
 ## Why is this useful?
 
